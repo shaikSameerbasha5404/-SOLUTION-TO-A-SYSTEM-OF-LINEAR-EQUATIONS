@@ -19,7 +19,7 @@ import numpy as np
 from tensorflow import keras
 ```
 ## Output:
-![model](/solving%20of%20linear%20%20equation.png)
+![model](/solving-of-linear-equation.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
