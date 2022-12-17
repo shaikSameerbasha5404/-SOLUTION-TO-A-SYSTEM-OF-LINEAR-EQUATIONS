@@ -14,8 +14,12 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-
+```python
+import numpy as np
+from tensorflow import keras
+```
 ## Output:
+![model](/solving%20of%20linear%20%20equation.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
